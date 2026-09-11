@@ -1,4 +1,4 @@
-# Human Activity Recognition — Intermediate Data Science Project
+# Human Activity Recognition
 
 This project classifies six daily activities from smartphone accelerometer and
 gyroscope measurements in the UCI Human Activity Recognition dataset.
