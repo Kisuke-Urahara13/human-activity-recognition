@@ -1,0 +1,13 @@
+.venv/
+.python311/
+.matplotlib/
+.sites-runtime/
+python-install.log
+__pycache__/
+.pytest_cache/
+*.py[cod]
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+

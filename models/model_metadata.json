@@ -1,0 +1,17 @@
+{
+  "best_model": "logistic_regression",
+  "results": {
+    "logistic_regression": {
+      "accuracy": 0.9555480149304377,
+      "macro_precision": 0.9582243779797824,
+      "macro_recall": 0.954228451379122,
+      "macro_f1": 0.9553658114155609
+    },
+    "random_forest": {
+      "accuracy": 0.9263657957244655,
+      "macro_precision": 0.9279419897661815,
+      "macro_recall": 0.9228564555280152,
+      "macro_f1": 0.9242678553215913
+    }
+  }
+}
